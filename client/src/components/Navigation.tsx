@@ -1,6 +1,8 @@
 import { Button } from "@/components/ui/button";
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
+import smilelogo from "@assets/generated_images/smilelogo.png";
+
 
 const navItems = [
   { label: 'Home', href: '#hero' },
@@ -34,7 +36,11 @@ export default function Navigation() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center">
-            <h1 className="text-2xl font-bold text-primary">S..Miles  by Amirel</h1>
+                <img src={smilelogo} alt="Logo"   style={{ height: "50px", verticalAlign: "middle", marginRight: "10px" }}/>
+
+            <h1 className="text-2xl font-bold text-primary">
+               By Amirel
+               </h1>
           </div>
 
           {/* Desktop Navigation */}

@@ -16,7 +16,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-3 gap-10">
           {/* Brand */}
           <div className="col-span-1">
-            <h3 className="text-2xl font-bold text-primary mb-4">S..Miles</h3>
+            <h3 className="text-2xl font-bold text-primary mb-4">S-Miles</h3>
             <p className="text-muted-foreground leading-relaxed">
               Connecting smiles, bridging distances. Your virtual friend who brings 
               warmth and companionship into every day.
@@ -68,7 +68,7 @@ export default function Footer() {
         <div className="border-t border-border mt-8 pt-8 text-center">
           <div className="flex flex-col md:flex-row justify-between items-center gap-8">
             <p className="text-muted-foreground text-sm">
-              © {currentYear} S..Miles. All rights reserved.
+              © {currentYear} S-Miles. All rights reserved.
             </p>
             
             

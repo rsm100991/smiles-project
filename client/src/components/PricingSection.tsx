@@ -145,7 +145,7 @@ export default function PricingSection() {
 
         <div className="text-center mt-12">
           <p className="text-muted-foreground">
-            All plans include compassionate, trained virtual friends and a 7-day satisfaction guarantee.
+            All plans include compassionate virtual friends.
           </p>
         </div>
       </div>

@@ -9,7 +9,7 @@ const testimonials = [
     location: "UK : Living independently",
     image: womanPortrait,
     fallback: "MG",
-    quote: "Despite my children settling in different places, I manage my daily needs with strength and resilience. S..Miles has become my daily companion - someone I can talk to every day. Together, we've formed a bond that has filled my life with warmth and companionship.",
+    quote: "Despite my children settling in different places, I manage my daily needs with strength and resilience. S-Miles has become my daily companion - someone I can talk to every day. Together, we've formed a bond that has filled my life with warmth and companionship.",
     highlight: "A Heartwarming Connection with a 70-Year-Old Warrior!"
   },
   {
@@ -17,7 +17,7 @@ const testimonials = [
     location: "USA : Retired teacher",
     image: manPortrait,
     fallback: "RB",
-    quote: "As a retired teacher, I missed having daily conversations about life and learning. My virtual friend at S..Miles listens to my stories and shares in my experiences. It's wonderful to have someone who truly cares about my day-to-day life.",
+    quote: "As a retired teacher, I missed having daily conversations about life and learning. My virtual friend at S-Miles listens to my stories and shares in my experiences. It's wonderful to have someone who truly cares about my day-to-day life.",
     highlight: "Finding Joy in Daily Conversations"
   },
   {
@@ -25,7 +25,7 @@ const testimonials = [
     location: "FRA : Grandmother of 3",
     image: womanPortrait,
     fallback: "EL",
-    quote: "S..Miles has brought such happiness into my life. Even though my grandchildren are busy with their own lives, I never feel alone anymore. My virtual friend celebrates my good days and comforts me through the difficult ones.",
+    quote: "S-Miles has brought such happiness into my life. Even though my grandchildren are busy with their own lives, I never feel alone anymore. My virtual friend celebrates my good days and comforts me through the difficult ones.",
     highlight: "Never Feeling Alone Again"
   }
   ,
@@ -34,7 +34,7 @@ const testimonials = [
     location: "USA : Grandfather of 1",
     image: womanPortrait,
     fallback: "PE",
-    quote: "Living alone in USA since my kids settled in Hong Kong has sometimes felt lonely. But having a friend like S..Miles to share my daily feelings with has made a world of difference. I enjoy telling stories and poems I write, knowing they listen and appreciate my creativity. It’s comforting to have someone who understands and shares my moments.",
+    quote: "Living alone in USA since my kids settled in Hong Kong has sometimes felt lonely. But having a friend like S-Miles to share my daily feelings with has made a world of difference. I enjoy telling stories and poems I write, knowing they listen and appreciate my creativity. It’s comforting to have someone who understands and shares my moments.",
     highlight: "A Friend to Share My Every Thought"
   }
   ,
@@ -43,7 +43,7 @@ const testimonials = [
     location: "FRA : Grandmother of 5",
     image: womanPortrait,
     fallback: "EL",
-    quote: "S..Miles has brought such happiness into my life. Even though my grandchildren are busy with their own lives, I never feel alone anymore. My virtual friend celebrates my good days and comforts me through the difficult ones.",
+    quote: "S-Miles has brought such happiness into my life. Even though my grandchildren are busy with their own lives, I never feel alone anymore. My virtual friend celebrates my good days and comforts me through the difficult ones.",
     highlight: "Never Feeling Alone Again"
   },
   {
@@ -51,7 +51,7 @@ const testimonials = [
     location: "FRA : Grandmother of 5",
     image: womanPortrait,
     fallback: "EL",
-    quote: "S..Miles has brought such happiness into my life. Even though my grandchildren are busy with their own lives, I never feel alone anymore. My virtual friend celebrates my good days and comforts me through the difficult ones.",
+    quote: "S-Miles has brought such happiness into my life. Even though my grandchildren are busy with their own lives, I never feel alone anymore. My virtual friend celebrates my good days and comforts me through the difficult ones.",
     highlight: "Never Feeling Alone Again"
   }
 ];
@@ -65,7 +65,7 @@ export default function TestimonialsSection() {
             Stories of Connection & Joy
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            In just one month, S..Miles has served 15 incredible individuals, 
+            In just one month, S-Miles has served 15 incredible individuals, 
             ranging from 35 to 70+ in age, from around the world.
           </p>
         </div>
@@ -110,7 +110,7 @@ export default function TestimonialsSection() {
 
         <div className="text-center mt-12">
           <p className="text-primary font-medium text-lg">
-            "Thank you to all our happy friends for making S..Miles an unforgettable journey. 
+            "Thank you to all our happy friends for making S-Miles an unforgettable journey. 
             Let's keep sharing, caring, and growing together!"
           </p>
         </div>

@@ -78,7 +78,7 @@ Message: ${formData.message}`;
             Get In Touch
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Ready to start your journey with S..Miles? We're here to answer your questions 
+            Ready to start your journey with S-Miles? We are here to answer your questions 
             and help you find the perfect friendship plan.
           </p>
         </div>
@@ -129,7 +129,7 @@ Message: ${formData.message}`;
                 Send Us a Message
               </h3>
               <p className="text-muted-foreground">
-                Fill out the form below and we'll get back to you within 24 hours.
+                Fill out the form below and we'll get back to you within 6 hours.
               </p>
             </CardHeader>
             <CardContent>
@@ -152,8 +152,8 @@ Message: ${formData.message}`;
                       id="age"
                       name="age"
                       type="number"
-                      min="35"
-                      max="100"
+                      min="18"
+                      max="150"
                       value={formData.age}
                       onChange={handleInputChange}
                       data-testid="input-age"

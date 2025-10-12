@@ -30,7 +30,7 @@ export default function ServicesSection() {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            How S..Miles Creates Connection
+            How S-Miles Creates Connection
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             We understand the value of genuine human connection. Here's how we bridge 

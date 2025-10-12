@@ -11,7 +11,7 @@ export default function LiveChatWidget() {
     {
       id: 1,
       sender: 'support',
-      text: 'Hello! I\'m here to help you learn about S..Miles. How can I assist you today?',
+      text: 'Hello! I\'m here to help you learn about S-Miles. How can I assist you today?',
       timestamp: new Date()
     }
   ]);
@@ -35,7 +35,7 @@ export default function LiveChatWidget() {
       const supportResponse = {
         id: messages.length + 2,
         sender: 'support', 
-        text: 'Thank you for your message! A member of our team will connect with you shortly to discuss how S..Miles can bring companionship into your life.',
+        text: 'Thank you for your message! A member of our team will connect with you shortly to discuss how S-Miles can bring companionship into your life.',
         timestamp: new Date()
       };
       setMessages(prev => [...prev, supportResponse]);
@@ -70,7 +70,7 @@ export default function LiveChatWidget() {
         <Card className="fixed bottom-6 right-6 w-80 h-96 shadow-xl z-50 flex flex-col">
           <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-3 bg-primary text-primary-foreground rounded-t-lg">
             <div>
-              <h3 className="font-semibold">S..Miles Support</h3>
+              <h3 className="font-semibold">S-Miles Support</h3>
               <p className="text-sm opacity-90">We're here to help!</p>
             </div>
             <Button

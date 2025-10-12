@@ -18,19 +18,19 @@ export default function AboutSection() {
           {/* Content */}
           <div className="order-1 lg:order-2 space-y-6">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground">
-              The Story Behind S..Miles
+              The Story Behind S-Miles
             </h2>
             
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p className="text-lg">
-                At S..Miles, we believe that life's journey is about more than just the daily 
+                At S-Miles, we believe that life's journey is about more than just the daily 
                 hustle and bustle. It's about finding time for yourself, nurturing social 
                 connections, and embracing the symphonies of life.
               </p>
               
               <p>
                 Unfortunately, in the fast-paced world we live in, the distance between us 
-                and these essential aspects of life keeps growing. That's why we created S..Miles 
+                and these essential aspects of life keeps growing. That's why we created S-Miles 
                 – to bridge that gap, one smile at a time.
               </p>
               

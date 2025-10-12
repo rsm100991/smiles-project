@@ -1,4 +1,4 @@
-# S..Miles Virtual Friendship Service - Design Guidelines
+# S-Miles Virtual Friendship Service - Design Guidelines
 
 ## Design Approach Documentation
 **Selected Approach:** Reference-based, drawing inspiration from healthcare and wellness platforms like BetterHelp and senior-focused services like Papa, emphasizing warmth, trust, and accessibility for 55+ demographics.
@@ -72,4 +72,4 @@
 - Alt text for all images
 - Keyboard navigation support
 
-This design creates a trustworthy, warm environment that makes seniors feel welcome while providing easy access to S..Miles' compassionate virtual friendship services.
+This design creates a trustworthy, warm environment that makes seniors feel welcome while providing easy access to S-Miles' compassionate virtual friendship services.

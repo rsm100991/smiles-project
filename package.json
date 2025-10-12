@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
-   "homepage": "https://rsm100991.github.io/<repo-name>",
+   "homepage": "https://rsm100991.github.io/smiles-project",
 
   "scripts": {
     "dev": "cross-env NODE_ENV=development tsx server/index.ts",
